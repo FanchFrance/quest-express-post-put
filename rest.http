@@ -1,0 +1,8 @@
+PUT http://localhost:5000/api/users/:id
+content-type: application/json
+
+{    
+    "email": "fasxccvccgbvgggfvgbjvgjhcxdfgvccdddef@gmail.fr",
+    "password": "gcvccvndwfdtytg",
+    "name": "bcvaaaaabb"
+}
